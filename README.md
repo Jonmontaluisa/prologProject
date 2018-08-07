@@ -2,7 +2,7 @@
 Project 2 for COMP30020 from the University of Melbourne. A math puzzle
 
 ## Overview
-Fill the squares in the puzzle with numbers. The sum of number should be equal to the target in the top and left side
+Fill the squares in the puzzle with numbers. The sum of numbers should be equal to the target in the top and left side
 
 ## Testing
 Make sure prolog has been installed
