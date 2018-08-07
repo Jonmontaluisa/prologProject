@@ -1,4 +1,4 @@
-# COMP30020 project1
+# COMP30020 project2
 Project 2 for COMP30020 from the University of Melbourne. A math puzzle
 
 ## Overview
